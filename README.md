@@ -1,0 +1,2 @@
+# colorfortunecoin
+Ethereum smart contract
